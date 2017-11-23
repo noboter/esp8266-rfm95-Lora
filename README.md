@@ -8,3 +8,5 @@ The esp scans for WiFi Routers around and sends this informaton via Lora.
 Combined with a database like Wigle.net one may track the device quite well.
 
 Uses ABP but can be configured to use OTAA as well.
+
+By defaut the channels are configured to use TheThingsNetwork. Therefore there are 8 channels configured, other networks typically support only the first 3. 
