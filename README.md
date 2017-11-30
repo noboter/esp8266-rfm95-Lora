@@ -12,4 +12,3 @@ By defaut the channels are configured to use TheThingsNetwork. Therefore there a
 
 Triangulation or trilateration of the location of base basestations provides the estimate. Backend work is still in progress.
 Location estimation facilitating the LoRa signal works as well, with lower accuracy.
-However, there are probably more WiFi stations, compared to LoRa gateways around.
