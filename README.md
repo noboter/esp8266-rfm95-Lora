@@ -11,4 +11,5 @@ Uses ABP but can be configured to use OTAA as well.
 By defaut the channels are configured to use TheThingsNetwork. Therefore there are 8 channels configured, other networks typically support only the first 3.
 
 Triangulation or trilateration of the location of base basestations provides the estimate. Backend work is still in progress.
-Location estimation facilitating the LoRa signal works as well, with lower accuracy.
+Location estimation through the LoRa signal works with low accuracy.
+
